@@ -9,7 +9,7 @@ class Qiana:
     
     self.codingLanguages = ['python', 'R', 'SQL']
     self.primarySkillSet = 'Data Science'
-    self.education = ['Northwestern University (MS), 'Williams College (BA)]
+    self.education = ['Northwestern University (MS), 'Williams College (BA)']
     
     self.hobbies = ['books', 'memes', 'food', 'piano']
 ```
