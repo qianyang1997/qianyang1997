@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, welcome to my Github
+
+```python
+class Qiana:
+  
+  def __init__(self):
+    self.name = 'Qiana Yang'
+    self.birth = 'Apr 15'
+    
+    self.codingLanguages = ['python', 'R', 'SQL']
+    self.primarySkillSet = 'Data Science'
+    self.education = ['Northwestern University (MS), 'Williams College (BA)]
+    
+    self.hobbies = ['books', 'memes', 'food', 'piano']
+```
 
 <!--
 **qianyang1997/qianyang1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
