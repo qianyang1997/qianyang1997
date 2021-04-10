@@ -5,7 +5,7 @@ class Qiana:
   
   def __init__(self):
     self.name = 'Qiana Yang'
-    self.birthMonth = 'April'
+    self.birthYear = 1997
     
     self.codingLanguages = ['python', 'R', 'SQL']
     self.primarySkillSet = 'Data Science'
