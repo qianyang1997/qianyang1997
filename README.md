@@ -11,7 +11,7 @@ class Qiana:
     self.primarySkillSet = 'Data Science'
     self.education = ['Northwestern University (MS)', 'Williams College (BA)']
     
-    self.hobbies = ['books', 'memes', 'food', 'piano']
+    self.hobbies = ['cringe comedy', '(table) tennis', 'books', 'food', 'piano']
 ```
 
 <!--
