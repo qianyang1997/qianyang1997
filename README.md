@@ -5,8 +5,8 @@ class Qiana:
   
   def __init__(self):
     self.name = 'Qiana Yang'
-    self.coding_languages = ['python', 'SQL']
-    self.technical_skills = ['foundational ML framework', 'reinforcement learning', 'data architecture design', 'MLOps']
+    self.languages = ['python', 'SQL']
+    self.skills = ['foundational ML framework', 'reinforcement learning', 'data architecture', 'MLOps']
     self.education = ['Northwestern University (MS)', 'Williams College (BA)']
     self.hobbies = ['reading', 'biking', 'coffee', 'roasting friends or being roasted']
 ```
