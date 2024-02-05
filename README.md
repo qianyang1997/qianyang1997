@@ -5,13 +5,15 @@ class Qiana:
   
   def __init__(self):
     self.name = 'Qiana Yang'
-    self.birthYear = 1997
-    
-    self.codingLanguages = ['python', 'R', 'SQL']
-    self.primarySkillSet = 'Data Science'
+    self.coding_languages = ['python', 'SQL']
+    self.technical_skills = [
+        'foundational ML framework',
+        'reinforcement learning',
+        'data architecture design',
+        'MLOps'
+    ]
     self.education = ['Northwestern University (MS)', 'Williams College (BA)']
-    
-    self.hobbies = ['cringe comedy', '(table) tennis', 'books', 'food', 'piano']
+    self.hobbies = ['reading', 'biking', 'coffee', 'roasting friends or being roasted']
 ```
 
 <!--
