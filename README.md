@@ -5,10 +5,9 @@ class Qiana:
   
   def __init__(self):
     self.name = 'Qiana Yang'
-    self.languages = ['python', 'SQL']
-    self.skills = ['foundational ML framework', 'reinforcement learning', 'data architecture', 'MLOps']
-    self.education = ['Northwestern University (MS)', 'Williams College (BA)']
-    self.hobbies = ['reading', 'biking', 'coffee', 'roasting friends or being roasted']
+    self.languages = ['python', 'SQL', 'shell script', 'Terraform', 'more to come']
+    self.skills = ['architecture', 'code design', 'cloud', 'ML frameworks', 'people also say I communicate well']
+    self.things_i_care_about = ['partner', 'friends', 'family', 'good life', 'good code']
 ```
 
 <!--
