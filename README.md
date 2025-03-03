@@ -5,9 +5,14 @@ class Qiana:
   
   def __init__(self):
     self.name = 'Qiana Yang'
-    self.languages = ['python', 'SQL', 'shell script', 'Terraform', 'more to come']
-    self.skills = ['architecture', 'code design', 'cloud', 'ML frameworks', 'people also say I communicate well']
-    self.things_i_care_about = ['partner', 'friends', 'family', 'good life', 'good code']
+    self.skills = {
+      'programming_languages': ['python', 'C'],
+      'web_development': ['react', 'javascript'],
+      'devops': ['Terraform', 'Kubernetes', 'GitHub Actions'],
+      'cloud': ['AWS', 'Azure'],
+      'miscellaneous': ['shell scripting', 'SQL'],
+    }
+    self.blog = 'https://medium.com/@qyang1997'
 ```
 
 <!--
