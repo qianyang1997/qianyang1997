@@ -6,11 +6,10 @@ class Qiana:
   def __init__(self):
     self.name = 'Qiana Yang'
     self.skills = {
-      'programming_languages': ['python', 'C'],
-      'web_development': ['react', 'javascript'],
-      'devops': ['Terraform', 'Kubernetes', 'GitHub Actions'],
-      'cloud': ['AWS', 'Azure'],
-      'miscellaneous': ['shell scripting', 'SQL'],
+      'languages': ['python', 'C++', 'javascript', 'SQL'],
+      'web_development': ['react', 'node.js'],
+      'devops': ['Terraform', 'Kubernetes'],
+      'cloud': ['AWS', 'Azure']
     }
     self.blog = 'https://medium.com/@qyang1997'
 ```
